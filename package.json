@@ -1,0 +1,31 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "primer tarea de progra web 1",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speed-flip/tarea1prograweb.git"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript",
+    "git",
+    "github",
+    "tarea1"
+  ],
+  "author": "Victor Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/speed-flip/tarea1prograweb/issues"
+  },
+  "homepage": "https://github.com/speed-flip/tarea1prograweb#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
